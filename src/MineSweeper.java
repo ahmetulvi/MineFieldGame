@@ -48,6 +48,7 @@ public class MineSweeper {
             }
             System.out.println();
         }
+        System.out.println("==================================");
     }
     public void printGameMap(){
         for (int i=0;i<this.rowNumber;i++){
